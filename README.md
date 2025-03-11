@@ -1,5 +1,5 @@
 # PowerBI-reports
-Examples of Shazad's PowerBI reports from work or personal projects:
+Examples of Shazad's PowerBI reports from work and personal projects:
 This Power BI folder displays screenshots of PowerBI products created at work that analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
 
 ### Questions
