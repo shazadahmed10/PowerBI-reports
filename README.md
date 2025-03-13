@@ -19,11 +19,14 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 - KPIs for  HIV, Malaria, PEPFAR, Maternal and Child Health, and Youth Health programming
 - Interactive charts (bar charts, line graphs, tables, and maps).
 
-### 📊 Data Source
+### 📊 Data Sources
 - Peace Corps health sector data 2024-2025 pulled from VRG
 - Peace Corps PEPFAR data from DHIS2 DATIM
 - Data cleaning done in Microsoft Power Query in PowerBI
+- Life expectancy data - Kaggle
+- NBA all_seasons data - Kaggle
 
 ### 🛠️ Tools Used
 - Power BI for data visualization
 - Power Query for data preprocessing
+- Kaggle for downloading public datasets
