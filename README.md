@@ -4,13 +4,13 @@ PowerBI products created at work analyze organization health sector program resu
 Personal PowerBI products show NBA statistics and global life expectancy statistics. 
 
 ### Questions 
-## Work Products:
+#### Work Products:
 - How many people were reached by health programming?
 - What did program performance in PEPFAR look like when looking at results vs targets? 
 - How many health projects are active across Peace Corps countries?
 - What are key metrics to showcase agency health programming work to government stakeholders?
 
-## Personal:
+#### Personal:
 - Who were the most impactful non-American born NBA players and where did they come from?
 - What is the average life expectancy around the world?
 
