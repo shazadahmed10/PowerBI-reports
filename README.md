@@ -20,11 +20,11 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 - Interactive charts (bar charts, line graphs, tables, and maps).
 
 ### 📊 Data Sources
-- Peace Corps health sector data 2024-2025 pulled from VRG
-- Peace Corps PEPFAR data from DHIS2 DATIM
+- Peace Corps health sector data 2024-2025 pulled from VRG (.xlsx)
+- Peace Corps PEPFAR data from DHIS2 DATIM (.txt)
+- Life expectancy CSV data - Kaggle
+- NBA all_seasons CSV data - Kaggle
 - Data cleaning done in Microsoft Power Query in PowerBI
-- Life expectancy data - Kaggle
-- NBA all_seasons data - Kaggle
 
 ### 🛠️ Tools Used
 - Power BI for data visualization
