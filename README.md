@@ -1,12 +1,18 @@
 # PowerBI-reports
-Examples of Shazad's PowerBI reports from work and personal projects:
-This Power BI folder displays screenshots of PowerBI products created at work that analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
+This Power BI folder displays screenshots of Shazad's PowerBI reports from work and personal projects:
+PowerBI products created at work analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
+Personal PowerBI products show NBA statistics and global life expectancy statistics. 
 
-### Questions
+### Questions 
+## Work Products:
 - How many people were reached by health programming?
 - What did program performance in PEPFAR look like when looking at results vs targets? 
 - How many health projects are active across Peace Corps countries?
-- What are key metrics to showcase agency health programming work to government stakeholders? 
+- What are key metrics to showcase agency health programming work to government stakeholders?
+
+## Personal:
+- Who were the most impactful non-American born NBA players and where did they come from?
+- What is the average life expectancy around the world?
 
 ### 🚀 Features
 - Dynamic slicers for filtering by fiscal year, health sub sector, indicators, and more.
