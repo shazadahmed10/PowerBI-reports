@@ -1,6 +1,6 @@
 # PowerBI-reports
 This Power BI folder displays screenshots of Shazad's PowerBI reports from work and personal projects:
-PowerBI products created at work analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
+PowerBI products created while working at CDC and Peace Corps analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
 Personal PowerBI products show NBA statistics and global life expectancy statistics. 
 
 ### Questions 
@@ -8,7 +8,7 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 - How many people were reached by health programming?
 - What did program performance in PEPFAR look like when looking at results vs targets?
 - What does program performance look like for HIV Testing and Services (HTS) in fiscal year 2021? 
-- How many health projects are active across Peace Corps countries?
+- How many health projects are active across agency country programs?
 - What are key metrics to showcase agency health programming work to government stakeholders?
 
 #### Personal:
