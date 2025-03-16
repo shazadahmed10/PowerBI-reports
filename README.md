@@ -22,8 +22,8 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 
 ### 📊 Data Sources
 - Peace Corps health sector data 2024-2025 pulled from VRG (.xlsx)
-- Peace Corps PEPFAR data from DHIS2 DATIM (.txt)
-- CDC PEPFAR data from DHIS2 DATIM (.txt)
+- Peace Corps PEPFAR data from data.pepfar.gov (.txt)
+- CDC PEPFAR data from data.pepfar.gov (.txt)
 - Life expectancy CSV data - Kaggle
 - NBA all_seasons CSV data - Kaggle
 - Data cleaning done in Microsoft Power Query in PowerBI
