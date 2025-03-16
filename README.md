@@ -1,5 +1,5 @@
 # PowerBI-reports
-This Power BI folder displays screenshots of Shazad's PowerBI reports from work and personal projects:
+This Power BI folder displays screenshots of Shazad's PowerBI reports from work and personal projects.
 PowerBI products created while working at CDC and Peace Corps analyze organization health sector program results, annual program targets, data quality and other performance metrics.  
 Personal PowerBI products show NBA statistics and global life expectancy statistics. 
 
