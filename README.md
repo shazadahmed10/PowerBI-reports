@@ -6,7 +6,8 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 ### Questions 
 #### Work Products:
 - How many people were reached by health programming?
-- What did program performance in PEPFAR look like when looking at results vs targets? 
+- What did program performance in PEPFAR look like when looking at results vs targets?
+- What does program performance look like for HIV Testing and Services (HTS) in fiscal year 2021? 
 - How many health projects are active across Peace Corps countries?
 - What are key metrics to showcase agency health programming work to government stakeholders?
 
@@ -22,6 +23,7 @@ Personal PowerBI products show NBA statistics and global life expectancy statist
 ### 📊 Data Sources
 - Peace Corps health sector data 2024-2025 pulled from VRG (.xlsx)
 - Peace Corps PEPFAR data from DHIS2 DATIM (.txt)
+- CDC PEPFAR data from DHIS2 DATIM (.txt)
 - Life expectancy CSV data - Kaggle
 - NBA all_seasons CSV data - Kaggle
 - Data cleaning done in Microsoft Power Query in PowerBI
